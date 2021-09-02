@@ -4,5 +4,7 @@
     <string name="enter_email">Enter Email</string>
     <string name="enter_password">Enter Password</string>
     <string name="enter_confirm_password">Confirm Password</string>
+    <string name="label_sign_up">Sign Up</string>
+    <string name="label_sign_in">Sign In</string>
 
 </resources>
