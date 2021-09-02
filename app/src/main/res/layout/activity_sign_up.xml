@@ -80,14 +80,15 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:layout_margin="20dp">
 
         <Button
             android:id="@+id/btn_sign_up"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:layout_margin="20dp"
+            android:layout_marginEnd="10dp"
             android:text="@string/label_sign_up"
             android:fontFamily="@font/gilroy_bold"
             android:background="@drawable/editsignup_btn_bg"/>
@@ -96,22 +97,13 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:layout_margin="20dp"
+            android:layout_marginEnd="10dp"
             android:text="@string/label_sign_in"
             android:fontFamily="@font/gilroy_bold"
             android:background="@drawable/editsignup_btn_bg"/>
 
 
     </LinearLayout>
-
-
-
-
-
-
-
-
-
-
+c
 
 </LinearLayout>
