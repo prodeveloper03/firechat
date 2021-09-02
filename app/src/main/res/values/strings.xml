@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">firechat</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_confirm_password">Confirm Password</string>
+
 </resources>
